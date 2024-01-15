@@ -1,3 +1,13 @@
+## GitHub Features
+
+### Pull Requests
+Describe what a Pull Request is and how to perform one.
+
+### Actions
+Provide a basic guide on using GitHub Actions.
+
+### Releases
+Explain how to create and manage releases on GitHub.
 ### clone
 Creates a copy of a repository on your local machine.
 
