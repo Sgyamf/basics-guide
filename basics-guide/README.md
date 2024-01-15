@@ -1,3 +1,8 @@
+### clone
+Creates a copy of a repository on your local machine.
+
+```bash
+git clone <repository_url>
 ## Command Line Git
 
 ### log
