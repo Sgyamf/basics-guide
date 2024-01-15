@@ -1,3 +1,5 @@
+### basics-guide
+A comprehensive guide covering fundamental Git commands, GitHub workflows, and basic SSH authentication for Project 0.
 # Git and GitHub Basics Guide
 
 ## Table of Contents
