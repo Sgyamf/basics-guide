@@ -1,3 +1,10 @@
+## GitHub Basics
+
+### Pull Requests
+Briefly explain what Pull Requests are and provide a guide on how to create and merge them on GitHub.
+
+### Actions
+Provide a basic guide on using GitHub Actions for automation in your repositories.
 ## SSH
 
 ### Authentication to Repositories
