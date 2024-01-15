@@ -1,3 +1,10 @@
+## SSH
+
+### Authentication to Repositories
+Describe how to set up and use SSH authentication for Git repositories.
+
+### Authentication to an AWS Instance
+Provide a guide on using SSH authentication to connect to an AWS instance.
 ## GitHub Features
 
 ### Pull Requests
