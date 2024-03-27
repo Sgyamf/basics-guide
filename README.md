@@ -7,10 +7,10 @@
 
 ## Well-Formed CPE: 
 
-- `cpe:/a:sgyamf_vulnerable_code:1.0.0`
+- `cpe:/a:freshbib:1.0.0`
   - `cpe`: Common Platform Enumeration prefix.
   - `a`: Part, representing the application.
-  - `sgyamf_vulnerable_code`: Vendor name and product name (replace with actual names if applicable).
+  - `freshbib`: Vendor name and product name.
   - `1.0.0`: Version number following Semantic Versioning 2.0.
 
 ## Inclusion in Top 10 KEV List: 
@@ -23,7 +23,7 @@
 
 ## Personal Experience: 
 
-- In a previous project, I encountered CWE-79 in a web application where user input was not properly sanitized before being displayed on web pages. This oversight allowed attackers to inject malicious scripts, leading to potential security breaches and compromised user data.
+- I encountered CWE-79 in a web application where user input was not properly sanitized before being displayed on web pages. This oversight allowed attackers to inject malicious scripts, leading to potential security breaches and compromised user data.
 
 ## Mitigation: 
 
